@@ -4,14 +4,14 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
-                    <li>
+                    <!-- <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                    </li>
+                    </li> -->
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -34,7 +34,7 @@
                     {% endif %}
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}/{{ site.project_repository}}">
+                        <a href="https://github.com/{{ site.github_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -42,7 +42,7 @@
                         </a>
                     </li>
                     {% endif %}
-					{% if site.github_username == "projectpages" %}
+					<!-- {% if site.github_username == "projectpages" %}
                     <li>
                         <a href="https://github.com/projectpages/project-pages/issues">
                             <span class="fa-stack fa-lg">
@@ -67,11 +67,10 @@
                             </span>
                         </a>
                     </li>
-                    {% endif %}				
+                    {% endif %} -->
                 </ul>
                 <p class="copyright text-muted"> Copyright © <a href="http://ahmetcecen.github.io/" target="_blank">Ahmet Cecen</a>,  <a href="http://mined.gatech.edu/" target="_blank">MINED@GaTech</a> and <a href="https://github.com/projectpages" target="_blank">Project Pages</a> 2016. </p>
             </div>
         </div>
     </div>
 </footer>
-
