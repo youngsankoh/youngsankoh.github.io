@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      SlowFast Networks for Video Recognition
-author:     FAIR
+author:     Youngsan
 tags: 		FAIR Action-Recognition
-subtitle:  	Some Short Description of Post
+subtitle:  	SlowFast Networks
 category:  dlpr
 ---
 

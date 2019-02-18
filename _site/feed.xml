@@ -5,9 +5,26 @@
     <description>Deep Learning paper repo</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Feb 2019 00:51:49 +0900</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 00:51:49 +0900</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 01:03:24 +0900</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 01:03:24 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>SlowFast Networks for Video Recognition</title>
+        <description>ongoing
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/dlpr/2019/02/19/SlowFast-Networks-for-Video-Recognition/</link>
+        <guid isPermaLink="true">http://localhost:4000/dlpr/2019/02/19/SlowFast-Networks-for-Video-Recognition/</guid>
+        
+        <category>FAIR</category>
+        
+        <category>Action-Recognition</category>
+        
+        
+        <category>dlpr</category>
+        
+      </item>
     
   </channel>
 </rss>
