@@ -239,6 +239,7 @@ $$ \rightarrow $$ overfitting으로 고통받음..
 
 * validation mAP가 26.8인 모델을 train+val 으로 학습한 후 공식 test server에 제출 결과 26.6mAP 달성
 $$ \rightarrow $$ consistency
+<br/><br/>
 
 #### Visualization
 ![Figure4](https://user-images.githubusercontent.com/22654096/53145415-79debe80-35e3-11e9-9695-745a344a77c2.png)
