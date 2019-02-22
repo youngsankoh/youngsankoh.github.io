@@ -5,6 +5,7 @@ author:     Youngsan
 tags: 		FAIR Action_Recognition Kaiming_He
 subtitle:  	2018 Action Classification winner
 category:  dlpr
+comments: true
 ---
 #### Key concept
 * Fast pathway - high frame rate, motion
