@@ -2,7 +2,7 @@
 layout:     post
 title:      SlowFast Networks for Video Recognition
 author:     Youngsan
-tags: 		FAIR Action_Recognition Kaiming_He
+tags: 		FAIR Action_Recognition
 subtitle:  	2018 Action Classification winner
 category:  dlpr
 comments: true
@@ -109,11 +109,11 @@ $$ \Rightarrow $$ two-pathway SlowFast model을 제안
   <br/><br/>
 
 #### Training
-* 상세 내용은 논문에..ㅜ
+* 논문 참조
   <br/><br/>
 
 #### Inference
-* 상세 내용은 논문에..ㅜ
+* 논문 참조
   <br/><br/>
 
 ### Results and Analysis
